@@ -1,0 +1,2 @@
+class PyPlagException(Exception):
+    pass
